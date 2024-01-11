@@ -1,0 +1,5 @@
+<Project>
+    <ItemGroup>
+        <MauiImage Include="$(MSBuildThisFileDirectory)\Images\test_image_arrow.svg" />
+    </ItemGroup>
+</Project>
