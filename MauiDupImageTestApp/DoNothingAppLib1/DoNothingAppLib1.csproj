@@ -23,6 +23,6 @@
     <!-- Workaround for the duplicate image error. Replace the PackageReference for 
          TestMauiImageNuGet with this one. 
          
-        <PackageReference Include="TestMauiImageNuGet" Version="1.0.0" ExcludeAssets="buildTransitive" />
+        <PackageReference Include="TestMauiImageNuGet" Version="8.0.0" ExcludeAssets="buildTransitive" />
 	-->
 </Project>
